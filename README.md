@@ -6,6 +6,7 @@ Predicts whether an employee will leave or stay in a company.
 Utilizes RobustScaler for scaling and 83-17 train-test split for better model generalization.
 Employs advanced hyperparameter tuning for optimal performance.
 Includes feature encoding and detailed exploratory data analysis.
+
 Technologies Used - 
 Python
 Jupyter Notebook
